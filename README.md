@@ -21,7 +21,7 @@
 <br>
 <!-------------------------->
 <div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
+<h2 >Portafolio👨🏻‍💻</h2>
   
 </tr>
 </table>
