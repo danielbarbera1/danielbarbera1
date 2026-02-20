@@ -5,7 +5,9 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 INGENIERO EN COMPUTACION
+🎓 Soy un Ingeniero de Computación apasionado por la tecnología y la innovación. Con base en Venezuela, me dedico a transformar ideas complejas en software elegante y funcional. Mi enfoque combina una sólida base teórica en ciencias de la computación con las prácticas modernas de desarrollo de software.
+
+Me especializo en el desarrollo Full Stack, con un fuerte interés en arquitecturas de nube y optimización de rendimiento. Siempre estoy buscando aprender nuevas tecnologías y metodologías para mejorar la calidad de mi trabajo.
  
 <!--Intro end-->
   </p>
