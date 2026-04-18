@@ -25,7 +25,7 @@ Me especializo en el desarrollo Full Stack, con un fuerte interés en arquitectu
 <div id="proyectos">
 <h2 >Portafolio👨🏻‍💻</h2>
 <a href="https://portafolio-pi-ruddy.vercel.app/" target="_blank">
-    <img src="./preview.png" alt="Mi Portafolio" width="100%" style="border-radius: 10px;">
+    <img src="./src/preview.png" alt="Mi Portafolio" width="100%" style="border-radius: 10px;">
   </a>
   <p align="center"><b>✨ Haz clic para ver mi portafolio en vivo</b></p>
 </table>
