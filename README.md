@@ -24,10 +24,10 @@ Me especializo en el desarrollo Full Stack, con un fuerte interés en arquitectu
 <!-------------------------->
 <div id="proyectos">
 <h2 >Portafolio👨🏻‍💻</h2>
-  <a href="https://portafolio-pi-ruddy.vercel.app/" target="_blank">
-    <img src="https://api.screenshotone.com/take?url=https%3A%2F%2Fportafolio-pi-ruddy.vercel.app%2F&viewport_width=1200&viewport_height=630&block_cookie_banners=true" alt="Mi Portafolio" width="400" style="border-radius: 10px; border: 1px solid #30363d;">
+<a href="https://portafolio-pi-ruddy.vercel.app/" target="_blank">
+    <img src="https://opengraph.githubassets.com/1/danielbarbera1/portafolio-pi-ruddy" alt="Mi Portafolio" width="100%" style="border-radius: 10px;">
   </a>
-  <p><b>✨ Haz clic para ver mi portafolio en vivo</b></p>
+  <p align="center"><b>✨ Haz clic para ver mi portafolio en vivo</b></p>
 </tr>
 </table>
   </div>
