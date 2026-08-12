@@ -17,7 +17,7 @@ Me especializo en el desarrollo Full Stack, con un fuerte interés en arquitectu
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,py,css,html,js,tailwindcss,react,vite,nextjs,svg,ts,nodejs,mysql,sqlite,laragon,firebase,supabase,git,github,vscode,docker,vercel,bots,postman" />
+    <img src="https://skillicons.dev/icons?i=java,php,py,css,html,js,tailwindcss,react,vite,nextjs,svg,ts,nodejs,mysql,sqlite,laragon,firebase,supabase,git,github,vscode,docker,vercel,bots,postman,electron,express" />
   </a>
 </p>
 <br>
